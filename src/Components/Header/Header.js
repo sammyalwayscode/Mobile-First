@@ -45,7 +45,7 @@ export default Header;
 const Container = styled.div`
   height: 100px;
   width: 100%;
-  background-color: gold;
+  /* background-color: gold; */
   display: flex;
   justify-content: center;
   align-items: center;
